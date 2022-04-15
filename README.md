@@ -1,5 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-)
+<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
+
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A self motivated, enthusiastic, honest, good learner and having never give up attitude.</h3>
 
@@ -7,8 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar75" alt="sandeepkumar75" /></a> </p>
 
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About me**
+🔭 I’m currently working on **Mern stack**
+
+
+- ⌨️ I’m currently working on **coding skills**.<p> <img align="center" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/></p>
+
+
+- 🌱 I’m working on improving **Problem Solving skills**
+
+- 🖥️ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
 - 📫 How to reach me **sandeepkumarnitjsr@gmail.com**
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/san-deep-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-deep-kumar" height="30" width="40" /></a>
@@ -26,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar75&" alt="sandeepkumar75" /></p>
 
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
