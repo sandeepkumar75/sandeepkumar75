@@ -7,8 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar75" alt="sandeepkumar75" /></a> </p>
 
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About me**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+
 🔭 I’m currently working on **Mern stack**
 
 
